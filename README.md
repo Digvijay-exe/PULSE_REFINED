@@ -1,4 +1,4 @@
-# wristlift
+# PULSE
 
 Automatic set detection and rep counting for strength training, using only the motion sensors of a
 wrist-worn device (3-axis accelerometer, optionally a 3-axis gyroscope). No buttons to press: the
